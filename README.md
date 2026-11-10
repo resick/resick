@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Resul
 
-<!--
-**resick/resick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT support specialist in Munich. I fix problems for users and build tools that save the service desk time.
 
-Here are some ideas to get you started:
+**What I'm working on**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Bootrig](https://bootrig.com)**: sets up a new Windows PC in one download. Silent installs via WinGet, signed install plans, SHA-256 checks, and a version for IT teams with Intune / Group Policy rollout.
+- **[Zielstufe](https://zielstufe.com)**: mock German exams for nurses and doctors, with AI feedback through the Claude API.
+- **Labs**: Jira Service Management, ServiceNow, Microsoft 365 and Entra ID.
+
+**Currently:** studying for Microsoft AB-900 (Copilot & Agent Administration).
+
+**Contact:** [resihoxha.com](https://www.resihoxha.com) · [LinkedIn](https://www.linkedin.com/in/resihoxha) · resihoxha@gmail.com
